@@ -1,2 +1,2 @@
 # avatar_8bits
-Testando biblioteca python que gera avatares.
+Testando biblioteca Pagan que gera avatares.
